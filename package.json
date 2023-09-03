@@ -1,0 +1,23 @@
+{
+  "name": "coffeemasters",
+  "version": "1.0.0",
+  "description": "My own vanilla js app",
+  "main": "app.js",
+  "scripts": {
+    "start": "python3 -m http.server 1337"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasirura/coffee-masters.git"
+  },
+  "keywords": [
+    "vanilla",
+    "js"
+  ],
+  "author": "Sasiru Ravihansa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasirura/coffee-masters/issues"
+  },
+  "homepage": "https://github.com/sasirura/coffee-masters#readme"
+}
